@@ -175,6 +175,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  //toggle
 	  if (datacheck1)
 	  {
 		  // blink the LED
